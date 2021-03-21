@@ -6,6 +6,7 @@
 
 import java.io.PrintWriter;
 
+
 /**
  * Esta es la clase circulo que representa el radio. El centro del circulo es un
  * objeto Point.

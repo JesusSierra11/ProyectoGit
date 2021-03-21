@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.ProyectoGit;
 
 /**
  * Esta es la clase Forma bidimensional. Es una clase abstracta, sus metodos van

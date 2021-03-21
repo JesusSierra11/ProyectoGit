@@ -3,6 +3,7 @@
 Esta aplicación nos permite generar diferentes figuras geométricas y gestionarlas, modificando en cualquier momento los valores que desde un principio utilicemos para generar nuestra figura. Todas las salidas del programa podremos guardarlas en un archivo .txt.
 
 **1. Instalación**
+
 Para descargar el proyecto, simplemente tendremos que irnos a nuestro repositorio, le damos donde pone Code, se desplegara una ventana y simplemente le damos a Download ZIP. 
 ![Texto alternativo](/Imagenes/imagen1.png)
 Una vez descargado, descomprimimos el zip en el lugar que le parezca oportuno y simplemente nos quedamos con los .java que son los archivos que vamos a ejecutar.

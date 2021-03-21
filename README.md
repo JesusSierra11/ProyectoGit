@@ -1,6 +1,7 @@
 # Bienvenidos/as al generador de figuras geométricas
 
 Esta aplicación nos permite generar diferentes figuras geométricas y gestionarlas, modificando en cualquier momento los valores que desde un principio utilicemos para generar nuestra figura. Todas las salidas del programa podremos guardarlas en un archivo .txt.
+
 **1. Instalación**
 Para descargar el proyecto, simplemente tendremos que irnos a nuestro repositorio, le damos donde pone Code, se desplegara una ventana y simplemente le damos a Download ZIP. 
 ![Texto alternativo](/Imagenes/imagen1.png)
